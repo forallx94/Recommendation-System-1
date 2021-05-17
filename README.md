@@ -1,11 +1,15 @@
 # Recommendation-System
 
-A Hands-On Recommendation System using TensorRec package.
+TensorRec 패키지를 사용한 실전 추천 시스템. (번역중)
 
-The full Medium article is here: https://medium.com/@taufik.azri/recommendation-system-for-retail-customer-3f0f80b84221
+전체 Medium article : https://medium.com/@taufik.azri/recommendation-system-for-retail-customer-3f0f80b84221
 
-Dataset is obtained from Kaggle repository: https://www.kaggle.com/darpan25bajaj/retail-case-study-data#prod_cat_info.csv
+Kaggle 데이터 세트 : https://www.kaggle.com/darpan25bajaj/retail-case-study-data#prod_cat_info.csv
 
-TensorRec github page is here: https://github.com/jfkirk/tensorrec
+TensorRec github 페이지 : https://github.com/jfkirk/tensorrec
 
-Read and run the codes in Recommendation Engine.ipynb using jupyter notebook. Alternatively, copy and paste the codes into .py file and run in your favorite Python interface.
+원문 repository : https://github.com/fickaz/Recommendation-System
+
+# Installation
+
+tensorflow==1.15, keras==2.3.1, tensorrec==0.26.2 기반 
